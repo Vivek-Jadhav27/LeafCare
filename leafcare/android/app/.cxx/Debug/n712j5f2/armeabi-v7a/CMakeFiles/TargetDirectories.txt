@@ -1,0 +1,2 @@
+D:/Codespeedy/Plant_Disease/leafcare/android/app/.cxx/Debug/n712j5f2/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Codespeedy/Plant_Disease/leafcare/android/app/.cxx/Debug/n712j5f2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
